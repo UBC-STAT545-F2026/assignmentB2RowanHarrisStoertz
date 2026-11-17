@@ -1,6 +1,6 @@
 Package: assignmentB2RowanHarrisStoertz.git
 Title: Tip Calculator
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Rowan", "Harris-Stoertz", , "rowanharrisstoertz@gmail.com", role = c("aut", "cre"))
 Description: This function calculates the total price including a tip. It takes a subtotal and chosen tip percentage, and outputs the corresponding total. 
