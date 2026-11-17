@@ -1,9 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Assignment B2
+# Tip calculator package
 
-## Tip calculator package
+## Purpose
 
 This package contains the “Tip calculator” function, which calculates
 the total price including a tip, given a subtotal and chosen tip
