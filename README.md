@@ -15,7 +15,7 @@ The `assignmentB2RowanHarrisStoertz.git`package can be installed from
 [GitHub](https://github.com/) with:
 
 ``` r
-devtools::install_github("rowanharrisstoertz/assignmentB2RowanHarrisStoertz.git")
+install_github("UBC-STAT545-F2026/assignmentB2RowanHarrisStoertz", ref = "0.1.2")
 ```
 
 ## Example
