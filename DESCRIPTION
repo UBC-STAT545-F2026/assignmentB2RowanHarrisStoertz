@@ -1,6 +1,6 @@
 Package: assignmentB2RowanHarrisStoertz.git
 Title: Tip Calculator
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Rowan", "Harris-Stoertz", , "rowanharrisstoertz@gmail.com", role = c("aut", "cre"))
 Description: This function calculates the total price including a tip. It takes a subtotal and chosen tip percentage, and outputs the corresponding total. 
@@ -8,3 +8,6 @@ License: MIT + file LICENSE
 Config/roxygen2/version: 8.1.1
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
